@@ -1,0 +1,222 @@
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\ApplicationInsights.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.dll.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.pdb
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.exe
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.exe.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.rsp
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.exe
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.exe.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.rsp
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.AppContext.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Console.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.Compression.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Claims.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.ValueTuple.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.exe
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.exe.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.rsp
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Antlr3.Runtime.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Web.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Newtonsoft.Json.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Net.Http.Formatting.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Helpers.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.WebHost.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Mvc.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Optimization.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Razor.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Razor.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\WebGrease.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Newtonsoft.Json.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Net.Http.Formatting.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Helpers.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.WebHost.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Mvc.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Optimization.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Razor.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Razor.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Antlr3.Runtime.pdb
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Web.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csproj.CoreCompileInputs.cache
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csproj.CopyComplete
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.pdb
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.SqlServer.dll
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.xml
+C:\Users\MAQLAB\Documents\leo\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.SqlServer.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csprojAssemblyReference.cache
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csproj.CoreCompileInputs.cache
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.pdb
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\ApplicationInsights.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.dll.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\WebVendaDireta.pdb
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.exe
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.exe.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csc.rsp
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.exe
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.exe.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\csi.rsp
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.AppContext.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Collections.Immutable.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Console.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.Process.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.Compression.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.IO.Pipes.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Reflection.Metadata.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.AccessControl.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Claims.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Threading.Thread.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.ValueTuple.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XPath.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.exe
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.exe.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\vbc.rsp
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\VBCSCompiler.exe
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\roslyn\VBCSCompiler.exe.config
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Antlr3.Runtime.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.SqlServer.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.DependencyCollector.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Web.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.WindowsServer.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.ApplicationInsights.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.Web.Infrastructure.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Newtonsoft.Json.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Net.Http.Formatting.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Helpers.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.WebHost.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Mvc.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Optimization.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Razor.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Deployment.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Razor.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\WebGrease.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\EntityFramework.SqlServer.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Newtonsoft.Json.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Net.Http.Formatting.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Helpers.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Http.WebHost.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Mvc.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Optimization.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.Razor.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Deployment.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\System.Web.WebPages.Razor.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Antlr3.Runtime.pdb
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.ApplicationInsights.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.DependencyCollector.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.WindowsServer.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\Microsoft.AI.Web.xml
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Http.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.Razor.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Leonardo\Pos Fatec\c_sharp\WebVendaDiretaSolution\WebVendaDireta\obj\Debug\WebVendaDireta.csproj.CopyComplete

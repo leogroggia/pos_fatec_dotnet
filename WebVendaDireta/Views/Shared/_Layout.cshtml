@@ -1,0 +1,63 @@
+﻿@{
+    WebVendaDireta.Models.Usuario u = (WebVendaDireta.Models.Usuario)HttpContext.Current.Session["usuario"];
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Venda Direta", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Início", "Index", "Home", new { area = "" }, null)</li>
+                    @if (u == null)
+                    {
+                        <li>@Html.ActionLink("Cadastre-se", "Create", "Usuario", new { area = "" }, null)</li>
+                        <li>@Html.ActionLink("Login", "Login", "Usuario", new { area = "" }, null)</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Produtos", "Index", "Produto", new { area = "" }, null)</li>
+                        <li>@Html.ActionLink("Sair", "Logout", "Usuario", new { area = "" }, null)</li>
+                    }
+                </ul>
+                @if (u != null)
+                {
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#">@u.Nome (R$ @u.Receita vendido!)</a></li>
+                    </ul>
+                }
+                </div>
+        </div>
+    </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Venda Direta ASP.NET</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
