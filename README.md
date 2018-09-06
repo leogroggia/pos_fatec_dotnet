@@ -8,32 +8,32 @@ Email: leogroggia@gmail.com
 # Instrução para execução
 Supondo que você esteja sendo contratado para desenvolver um sistema C2C para uma empresa que deseja realizar a venda de produtos únicos como é feito, por exemplo, na OLX. Para tanto, lhe foi forneceido o Script do Banco de dados abaixo.
  
-CREATE DATABASE BDVendaDireta
-GO
+CREATE DATABASE BDVendaDireta  
+GO  
  
-USE BDVendaDireta
-GO
+USE BDVendaDireta  
+GO  
  
-CREATE TABLE Usuario
-(
-  UsuarioId     int           primary key     identity,
-  Nome          varchar(60)   not null,
-  Email         varchar(100)  not null        unique,
-  Senha         varchar(20)   not null,
-  Receita       decimal(9,2)  not null
-)
+CREATE TABLE Usuario  
+(  
+  UsuarioId     int           primary key     identity,  
+  Nome          varchar(60)   not null,  
+  Email         varchar(100)  not null        unique,  
+  Senha         varchar(20)   not null,  
+  Receita       decimal(9,2)  not null  
+)  
  
-CREATE TABLE Produto
-(
-  ProdutoId     int           primary key     identity,
-  UsuarioId     int           not null,
-  Nome          varchar(200)  not null,
-  Preco         decimal(9,2)  not null,
-  Vendido       bit           not null,
-  foreign key (UsuarioId) references Usuario (UsuarioId)
-)
+CREATE TABLE Produto  
+(  
+  ProdutoId     int           primary key     identity,  
+  UsuarioId     int           not null,  
+  Nome          varchar(200)  not null,  
+  Preco         decimal(9,2)  not null,  
+  Vendido       bit           not null,  
+  foreign key (UsuarioId) references Usuario (UsuarioId)  
+)  
  
-O sistema deverá contar com as seguintes funcionalidades, contemplando a ordem abaixo:
+O sistema deverá contar com as seguintes funcionalidades, contemplando a ordem abaixo:  
  
 1. Tela de cadastro de usuário.
 2. Uma vez realizado o cadastro, o usuário deverá, a partir de outra tela, efetuar o login no sistema.
